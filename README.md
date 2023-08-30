@@ -1,10 +1,10 @@
 ## Hello dear guest! 👋
 
 <p>😉 &nbsp; I'm Rustem, an aspiring front-end developer skilled in React and Next JS.</br>
-💻 &nbsp; I have a printing graphic design and an SMM background. Open-source mentorship & translation contributor. Big team player.</br>
+💻 &nbsp; I have a graphic and web design background. Open-source mentorship & translation contributor. Big team player.</br>
 📍 &nbsp; Originally from Kazakhstan 🇰🇿. Since January of 2021, I have been living in Barcelona, Spain 🇪🇸.</p>
 <p>🌍 &nbsp; I speak English (C2), Spanish (B1), Russian (native).</p>
-<p>📌 &nbsp; I’m currently working on: an advanced blog platform project. See the description <a href="https://github.com/notturnomio/blog-platform-prod">here</a>.</br>
+<p>📌 &nbsp; To improve my skills I currently work on: an advanced blog platform project. See the description <a href="https://github.com/notturnomio/blog-platform-prod">here</a>.</br>
 🚀 &nbsp; On my list to learn next: Astro, Vite, Svelte.</p>
 </br>
 <details>
