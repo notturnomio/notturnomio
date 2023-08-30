@@ -1,6 +1,6 @@
 ## Hello dear guest! 👋
 
-<p>😉 &nbsp; I'm Rustem, an aspiring front-end developer skilled in React and Next JS.</br>
+<p>😉 &nbsp; I'm Rustem, an aspiring front-end developer skilled in React and Next.js.</br>
 💻 &nbsp; I have a graphic and web design background. Open-source mentorship & translation contributor. Big team player.</br>
 📍 &nbsp; Originally from Kazakhstan 🇰🇿. Since January of 2021, I have been living in Barcelona, Spain 🇪🇸.</p>
 <p>🌍 &nbsp; I speak English (C2), Spanish (B1), Russian (native).</p>
@@ -16,7 +16,7 @@
 
   ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
   ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-  ![Next JS](https://img.shields.io/badge/next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+  ![Next.js](https://img.shields.io/badge/next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
   ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
   ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white)
   ![Redux Toolkit](https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white)
@@ -25,18 +25,17 @@
 
   ![Styled-Components](https://img.shields.io/badge/styled--components-DB7093?style=flat-square&logo=styled-components&logoColor=white)
   ![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
-  ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
+  ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
   ![Chakra-UI](https://img.shields.io/badge/Chakra--UI-319795?style=flat-square&logo=chakra-ui&logoColor=white)
   ![Ant Design](https://img.shields.io/badge/Ant%20Design-1890FF?style=flat-square&logo=antdesign&logoColor=white)
-  ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
   #### Backend
 
   ![Node JS](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
   ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
   ![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white)
   ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 
   #### Testing
 
