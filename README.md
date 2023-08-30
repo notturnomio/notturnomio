@@ -2,18 +2,17 @@
 
 <p>😉 &nbsp; I'm Rustem, an aspiring front-end developer skilled in React and Next.js.</br>
 💻 &nbsp; I have a graphic and web design background. Open-source mentorship & translation contributor. Big team player.</br>
-📍 &nbsp; Originally from Kazakhstan 🇰🇿. Since January of 2021, I have been living in Barcelona, Spain 🇪🇸.</p>
+📍 &nbsp; Originally from Kazakhstan 🇰🇿. Since January of 2021, I have been living in Barcelona, Catalonia, Spain 🇪🇸.</p>
 <p>🌍 &nbsp; I speak English (C2), Spanish (B1), Russian (native).</p>
-<p>📌 &nbsp; To improve my skills I currently work on: an advanced blog platform project. See the description <a href="https://github.com/notturnomio/blog-platform-prod">here</a>.</br>
-🚀 &nbsp; On my list to learn next: Astro, Vite, Svelte.</p>
+<p>📌 &nbsp; To learn and practice new skills I currently work on an advanced blog platform project. See the description <a href="https://github.com/notturnomio/blog-platform-prod">here</a>.</p>
 </br>
+
 <details>
   <summary><b>🔥 &nbsp; My tech skills</b></summary>
   </br>
   I have experience with the following technologies:
 
   #### Languages & Frameworks
-
   ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
   ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
   ![Next.js](https://img.shields.io/badge/next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
@@ -21,24 +20,24 @@
   ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white)
   ![Redux Toolkit](https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white)
 
-  #### Styling
+  #### Backend
+  ![Node JS](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+  ![Express Badge](https://img.shields.io/badge/Express-000?logo=express&logoColor=fff&style=flat)
+  ![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=flat)
+  ![Prisma Badge](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=fff&style=flat)
+  ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+  ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase)
+  ![Amazon AWS Badge](https://img.shields.io/badge/Amazon%20AWS-232F3E?logo=amazonaws&logoColor=fff&style=flat)
 
+  #### Styling
   ![Styled-Components](https://img.shields.io/badge/styled--components-DB7093?style=flat-square&logo=styled-components&logoColor=white)
   ![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
   ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
   ![Chakra-UI](https://img.shields.io/badge/Chakra--UI-319795?style=flat-square&logo=chakra-ui&logoColor=white)
   ![Ant Design](https://img.shields.io/badge/Ant%20Design-1890FF?style=flat-square&logo=antdesign&logoColor=white)
 
-  #### Backend
-
-  ![Node JS](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-  ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-  ![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white)
-  ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase)
-
   #### Testing
-
   ![React Testing Library](https://img.shields.io/badge/Testing%20Library-E33332?logo=testinglibrary&logoColor=fff&style=flat-square)
   ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
   ![Storybook](https://img.shields.io/badge/storybook-FF4785?style=flat-square&logo=storybook&logoColor=white)
@@ -46,25 +45,15 @@
   ![Loki](https://img.shields.io/badge/-LOKI-%2300c3ff?style=flat-square)
   ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
 
-  #### IDE and OS
-
-  ![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white)
-  ![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=flat-square&logo=WebStorm&logoColor=white)
-  ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=flat-square&logo=apple&logoColor=white)
-  ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
-
   #### Linters
-
   ![ESLint](https://img.shields.io/badge/eslint-3A33D1?style=flat-square&logo=eslint&logoColor=white)
   ![Prettier](https://img.shields.io/badge/prettier-1A2C34?style=flat-square&logo=prettier&logoColor=F7BA3E)
 
   #### Design Tools
-
   ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
   ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat-square&logo=adobe%20illustrator&logoColor=white)
 
   #### Others/Misc
-
   ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat-square&logo=git&logoColor=white)
   ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white)
   ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
@@ -76,7 +65,6 @@
   ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=JSON%20web%20tokens&logoColor=white)
   ![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=flat-square&logo=Stripe&logoColor=white)
   ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white)
-  ![WordPress](https://img.shields.io/badge/Wordpress-21759B?style=flat-square&logo=wordpress&logoColor=white)
   </br>
 </details>
 <details>
@@ -90,7 +78,7 @@
   - 🍳 &nbsp; trying new recipes, 
   - 🎮 &nbsp; COD Mobile.
    
-  💡 &nbsp; Fun fact: I decided to change my career to front-end after the Software Quality Assurance course at <a href="https://www.lasth.com">Los Altos Software Testing House</a> in 2019.
+  💡 &nbsp; Fun fact: I decided to start learning front-end after the QA online course at <a href="https://www.lasth.com">Los Altos Software Testing House</a> in 2019.
 </details>
 </br>
 <p>📬 &nbsp; How to reach me: </p>
